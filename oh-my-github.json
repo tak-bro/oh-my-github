@@ -5,7 +5,8 @@
     "schema_created_at": "2016-03-13T10:32:26.637Z",
     "schema_collected_ats": [
       "2016-03-13T10:32:26.637Z",
-      "2016-03-13T10:33:07.704Z"
+      "2016-03-13T10:33:07.704Z",
+      "2016-10-05T11:20:57.709Z"
     ],
     "agent": "cli-generator",
     "github_user": "njir",
@@ -4900,9 +4901,1168 @@
       "created_at": "2016-01-03T02:27:17Z",
       "actor": "njir",
       "repo": "oh-my-github/oh-my-github"
+    },
+    {
+      "payload": {
+        "push_id": 1327025906,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "df450e8ab2f015697bd8523ed8b3c0386470a20b",
+        "before": "b206870f684e2ebfb9eddd941174c75c4ec7a547",
+        "commit_shas": [
+          "df450e8ab2f015697bd8523ed8b3c0386470a20b"
+        ]
+      },
+      "event_id": "4647228141",
+      "type": "PushEvent",
+      "created_at": "2016-10-01T10:53:56Z",
+      "actor": "njir",
+      "repo": "njir/JavaStudy"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4644174145",
+      "type": "WatchEvent",
+      "created_at": "2016-09-30T15:35:49Z",
+      "actor": "njir",
+      "repo": "rstudio/tensorflow"
+    },
+    {
+      "payload": {
+        "push_id": 1321450242,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "b206870f684e2ebfb9eddd941174c75c4ec7a547",
+        "before": "d3ce41eb3465b68920863865eef6e52ff9313dae",
+        "commit_shas": [
+          "b206870f684e2ebfb9eddd941174c75c4ec7a547"
+        ]
+      },
+      "event_id": "4630599952",
+      "type": "PushEvent",
+      "created_at": "2016-09-28T13:20:09Z",
+      "actor": "njir",
+      "repo": "njir/JavaStudy"
+    },
+    {
+      "payload": {
+        "forkee_id": 69464839,
+        "forkee_name": "web-application-server",
+        "forkee_full_name": "njir/web-application-server",
+        "forkee_url": "https://github.com/njir/web-application-server",
+        "forkee_language": null
+      },
+      "event_id": "4630571581",
+      "type": "ForkEvent",
+      "created_at": "2016-09-28T13:15:06Z",
+      "actor": "njir",
+      "repo": "slipp/web-application-server"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4630569511",
+      "type": "WatchEvent",
+      "created_at": "2016-09-28T13:14:43Z",
+      "actor": "njir",
+      "repo": "slipp/web-application-server"
+    },
+    {
+      "payload": {
+        "push_id": 1315051676,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/develop",
+        "head": "d6f39ea09366d8431df43e70df28386fd8ddb27f",
+        "before": "4dbd316bd99afea2e68930051eca0d0fbe6fba5a",
+        "commit_shas": [
+          "d6f39ea09366d8431df43e70df28386fd8ddb27f"
+        ]
+      },
+      "event_id": "4612427397",
+      "type": "PushEvent",
+      "created_at": "2016-09-24T12:00:47Z",
+      "actor": "njir",
+      "repo": "suji-korea/suji-oss"
+    },
+    {
+      "payload": {
+        "push_id": 1315050401,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/develop",
+        "head": "4dbd316bd99afea2e68930051eca0d0fbe6fba5a",
+        "before": "379719f41ff1ab77f96a78cdbfbcaeb8ed09db14",
+        "commit_shas": [
+          "4dbd316bd99afea2e68930051eca0d0fbe6fba5a"
+        ]
+      },
+      "event_id": "4612424192",
+      "type": "PushEvent",
+      "created_at": "2016-09-24T11:58:19Z",
+      "actor": "njir",
+      "repo": "suji-korea/suji-oss"
+    },
+    {
+      "payload": {
+        "push_id": 1315041114,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/develop",
+        "head": "379719f41ff1ab77f96a78cdbfbcaeb8ed09db14",
+        "before": "d468df02accf46e945fdb78900d000e5679852d8",
+        "commit_shas": [
+          "379719f41ff1ab77f96a78cdbfbcaeb8ed09db14"
+        ]
+      },
+      "event_id": "4612401466",
+      "type": "PushEvent",
+      "created_at": "2016-09-24T11:37:17Z",
+      "actor": "njir",
+      "repo": "suji-korea/suji-oss"
+    },
+    {
+      "payload": {
+        "push_id": 1314935479,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "d3ce41eb3465b68920863865eef6e52ff9313dae",
+        "before": "8d034f76d8afc59cf26a4caba4520bdf67d5c815",
+        "commit_shas": [
+          "d3ce41eb3465b68920863865eef6e52ff9313dae"
+        ]
+      },
+      "event_id": "4612152323",
+      "type": "PushEvent",
+      "created_at": "2016-09-24T07:56:21Z",
+      "actor": "njir",
+      "repo": "njir/JavaStudy"
+    },
+    {
+      "payload": {
+        "push_id": 1314931052,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "8d034f76d8afc59cf26a4caba4520bdf67d5c815",
+        "before": "819bd15cb9a201159d1248756e1d24d9404548eb",
+        "commit_shas": [
+          "8d034f76d8afc59cf26a4caba4520bdf67d5c815"
+        ]
+      },
+      "event_id": "4612141701",
+      "type": "PushEvent",
+      "created_at": "2016-09-24T07:46:24Z",
+      "actor": "njir",
+      "repo": "njir/JavaStudy"
+    },
+    {
+      "payload": {
+        "push_id": 1314929932,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "819bd15cb9a201159d1248756e1d24d9404548eb",
+        "before": "eeb51d8ca1d4dc01c9171092c90e0a6dec558867",
+        "commit_shas": [
+          "819bd15cb9a201159d1248756e1d24d9404548eb"
+        ]
+      },
+      "event_id": "4612139099",
+      "type": "PushEvent",
+      "created_at": "2016-09-24T07:43:54Z",
+      "actor": "njir",
+      "repo": "njir/JavaStudy"
+    },
+    {
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "To study Java Web Programming Next Step book",
+        "pusher_type": "user"
+      },
+      "event_id": "4612138722",
+      "type": "CreateEvent",
+      "created_at": "2016-09-24T07:43:34Z",
+      "actor": "njir",
+      "repo": "njir/JavaStudy"
+    },
+    {
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": "To study Java Web Programming Next Step book",
+        "pusher_type": "user"
+      },
+      "event_id": "4612136500",
+      "type": "CreateEvent",
+      "created_at": "2016-09-24T07:41:27Z",
+      "actor": "njir",
+      "repo": "njir/JavaStudy"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4612029548",
+      "type": "WatchEvent",
+      "created_at": "2016-09-24T06:05:43Z",
+      "actor": "njir",
+      "repo": "slipp/jwp-book"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4611841129",
+      "type": "WatchEvent",
+      "created_at": "2016-09-24T03:12:07Z",
+      "actor": "njir",
+      "repo": "react-bootstrap/react-bootstrap"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4608378771",
+      "type": "WatchEvent",
+      "created_at": "2016-09-23T12:55:38Z",
+      "actor": "njir",
+      "repo": "adonisjs/adonis-framework"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4589454955",
+      "type": "WatchEvent",
+      "created_at": "2016-09-20T12:56:16Z",
+      "actor": "njir",
+      "repo": "node-hid/node-hid"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4589451839",
+      "type": "WatchEvent",
+      "created_at": "2016-09-20T12:55:45Z",
+      "actor": "njir",
+      "repo": "EmergingTechnologyAdvisors/node-serialport"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4589295390",
+      "type": "WatchEvent",
+      "created_at": "2016-09-20T12:24:48Z",
+      "actor": "njir",
+      "repo": "koajs/jwt"
+    },
+    {
+      "payload": {
+        "action": "opened",
+        "issue_id": 177104010,
+        "issue_number": 3,
+        "issue_title": "Error fixLinks ",
+        "issue_url": "https://github.com/njir/njir.github.io/issues/3"
+      },
+      "event_id": "4566425659",
+      "type": "IssuesEvent",
+      "created_at": "2016-09-15T07:01:55Z",
+      "actor": "njir",
+      "repo": "njir/njir.github.io"
+    },
+    {
+      "payload": {
+        "action": "closed",
+        "issue_id": 142044006,
+        "issue_number": 2,
+        "issue_title": "Make hyper link to oh-my-github",
+        "issue_url": "https://github.com/njir/njir.github.io/issues/2"
+      },
+      "event_id": "4566423282",
+      "type": "IssuesEvent",
+      "created_at": "2016-09-15T07:01:16Z",
+      "actor": "njir",
+      "repo": "njir/njir.github.io"
+    },
+    {
+      "payload": {
+        "action": "created",
+        "issue_id": 142044006,
+        "issue_number": 2,
+        "issue_title": "Make hyper link to oh-my-github",
+        "comment_url": "https://github.com/njir/njir.github.io/issues/2#issuecomment-247251746"
+      },
+      "event_id": "4566423280",
+      "type": "IssueCommentEvent",
+      "created_at": "2016-09-15T07:01:16Z",
+      "actor": "njir",
+      "repo": "njir/njir.github.io"
+    },
+    {
+      "payload": {
+        "push_id": 1299591568,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "70025cf108ac2852272133ef563aee6b161036c4",
+        "before": "fbf8d0a2c3439e687eda1044f19c760db79f262d",
+        "commit_shas": [
+          "70025cf108ac2852272133ef563aee6b161036c4"
+        ]
+      },
+      "event_id": "4566392739",
+      "type": "PushEvent",
+      "created_at": "2016-09-15T06:51:31Z",
+      "actor": "njir",
+      "repo": "njir/njir.github.io"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4566266376",
+      "type": "WatchEvent",
+      "created_at": "2016-09-15T06:05:13Z",
+      "actor": "njir",
+      "repo": "axitkhurana/buster"
+    },
+    {
+      "payload": {
+        "push_id": 1297640965,
+        "size": 2,
+        "distinct_size": 2,
+        "ref": "refs/heads/master",
+        "head": "fbf8d0a2c3439e687eda1044f19c760db79f262d",
+        "before": "a6ab95ca0fb488dadf07f84a016b1c9fbf354d01",
+        "commit_shas": [
+          "c5cdb53107435b1f1a063b5b02798a5408090349",
+          "fbf8d0a2c3439e687eda1044f19c760db79f262d"
+        ]
+      },
+      "event_id": "4560387827",
+      "type": "PushEvent",
+      "created_at": "2016-09-14T07:50:55Z",
+      "actor": "njir",
+      "repo": "njir/njir.github.io"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4545105083",
+      "type": "WatchEvent",
+      "created_at": "2016-09-11T02:40:22Z",
+      "actor": "njir",
+      "repo": "junegunn/fzf"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4543953583",
+      "type": "WatchEvent",
+      "created_at": "2016-09-10T12:06:51Z",
+      "actor": "njir",
+      "repo": "1ambda/zsh-snippets"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4543719702",
+      "type": "WatchEvent",
+      "created_at": "2016-09-10T08:45:02Z",
+      "actor": "njir",
+      "repo": "reactjs/react-chartjs"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4543437285",
+      "type": "WatchEvent",
+      "created_at": "2016-09-10T04:26:52Z",
+      "actor": "njir",
+      "repo": "tutumcloud/mariadb"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4543432800",
+      "type": "WatchEvent",
+      "created_at": "2016-09-10T04:22:43Z",
+      "actor": "njir",
+      "repo": "koajs/examples"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4543427929",
+      "type": "WatchEvent",
+      "created_at": "2016-09-10T04:17:53Z",
+      "actor": "njir",
+      "repo": "davezuko/react-redux-starter-kit"
+    },
+    {
+      "payload": {
+        "push_id": 1291839919,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/gh-pages",
+        "head": "a9bfad0dd89df0c187506a1e55ce3fa35b3b2dc0",
+        "before": "ac4501726f1d8de985cb6d370c6874d58baa7ef7",
+        "commit_shas": [
+          "a9bfad0dd89df0c187506a1e55ce3fa35b3b2dc0"
+        ]
+      },
+      "event_id": "4543415150",
+      "type": "PushEvent",
+      "created_at": "2016-09-10T04:06:11Z",
+      "actor": "njir",
+      "repo": "oh-my-github/registry"
+    },
+    {
+      "payload": {
+        "push_id": 1291810741,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/gh-pages",
+        "head": "ac4501726f1d8de985cb6d370c6874d58baa7ef7",
+        "before": "77af44302c868572b4365d8fa89ded43db10b68d",
+        "commit_shas": [
+          "ac4501726f1d8de985cb6d370c6874d58baa7ef7"
+        ]
+      },
+      "event_id": "4543335307",
+      "type": "PushEvent",
+      "created_at": "2016-09-10T02:58:01Z",
+      "actor": "njir",
+      "repo": "oh-my-github/registry"
+    },
+    {
+      "payload": {
+        "push_id": 1291798597,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/develop",
+        "head": "0fdde7a77a3ade51c81193c03e093bbfad98502e",
+        "before": "7ea5d2b393691c891be0e257d5a95467f1ef97d0",
+        "commit_shas": [
+          "0fdde7a77a3ade51c81193c03e093bbfad98502e"
+        ]
+      },
+      "event_id": "4543302174",
+      "type": "PushEvent",
+      "created_at": "2016-09-10T02:30:58Z",
+      "actor": "njir",
+      "repo": "suji-korea/suji"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4543275400",
+      "type": "WatchEvent",
+      "created_at": "2016-09-10T02:09:58Z",
+      "actor": "njir",
+      "repo": "paulirish/git-open"
+    },
+    {
+      "payload": {
+        "push_id": 1291763106,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "a6ab95ca0fb488dadf07f84a016b1c9fbf354d01",
+        "before": "bb066c7908124bb7e93f3139d43080997941b153",
+        "commit_shas": [
+          "a6ab95ca0fb488dadf07f84a016b1c9fbf354d01"
+        ]
+      },
+      "event_id": "4543192626",
+      "type": "PushEvent",
+      "created_at": "2016-09-10T01:14:38Z",
+      "actor": "njir",
+      "repo": "njir/njir.github.io"
+    },
+    {
+      "payload": {
+        "push_id": 1281943137,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "bb066c7908124bb7e93f3139d43080997941b153",
+        "before": "3ea3acaafa749592934089eb3f1771f85844cd8e",
+        "commit_shas": [
+          "bb066c7908124bb7e93f3139d43080997941b153"
+        ]
+      },
+      "event_id": "4513395391",
+      "type": "PushEvent",
+      "created_at": "2016-09-04T08:19:31Z",
+      "actor": "njir",
+      "repo": "njir/njir.github.io"
+    },
+    {
+      "payload": {
+        "push_id": 1281943010,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "3ea3acaafa749592934089eb3f1771f85844cd8e",
+        "before": "5bbf6dbce76b68f7c8f647336e27e9cbac60fe68",
+        "commit_shas": [
+          "3ea3acaafa749592934089eb3f1771f85844cd8e"
+        ]
+      },
+      "event_id": "4513395040",
+      "type": "PushEvent",
+      "created_at": "2016-09-04T08:19:11Z",
+      "actor": "njir",
+      "repo": "njir/njir.github.io"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4513014222",
+      "type": "WatchEvent",
+      "created_at": "2016-09-04T01:23:45Z",
+      "actor": "njir",
+      "repo": "atom/markdown-preview"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4511857327",
+      "type": "WatchEvent",
+      "created_at": "2016-09-03T08:47:47Z",
+      "actor": "njir",
+      "repo": "kripken/emscripten"
+    },
+    {
+      "payload": {
+        "action": "opened",
+        "issue_id": 174882907,
+        "issue_number": 11,
+        "issue_title": "Data Model for Generic POS Systems   ",
+        "issue_url": "https://github.com/suji-korea/suji-react/issues/11"
+      },
+      "event_id": "4511730872",
+      "type": "IssuesEvent",
+      "created_at": "2016-09-03T06:47:16Z",
+      "actor": "njir",
+      "repo": "suji-korea/suji-react"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4511625275",
+      "type": "WatchEvent",
+      "created_at": "2016-09-03T04:59:30Z",
+      "actor": "njir",
+      "repo": "Semantic-Org/Semantic-UI"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4478658993",
+      "type": "WatchEvent",
+      "created_at": "2016-08-27T04:48:14Z",
+      "actor": "njir",
+      "repo": "DimitriMikadze/express-react-redux-starter"
+    },
+    {
+      "payload": {
+        "push_id": 1270040857,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/develop",
+        "head": "d468df02accf46e945fdb78900d000e5679852d8",
+        "before": "00ab7adf4f19fd1140e1979d5a3ea4417348cfdb",
+        "commit_shas": [
+          "d468df02accf46e945fdb78900d000e5679852d8"
+        ]
+      },
+      "event_id": "4478654775",
+      "type": "PushEvent",
+      "created_at": "2016-08-27T04:43:46Z",
+      "actor": "njir",
+      "repo": "suji-korea/suji-react"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4478645930",
+      "type": "WatchEvent",
+      "created_at": "2016-08-27T04:34:43Z",
+      "actor": "njir",
+      "repo": "jaredpalmer/react-production-starter"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4478643376",
+      "type": "WatchEvent",
+      "created_at": "2016-08-27T04:32:16Z",
+      "actor": "njir",
+      "repo": "opencredo/opencredo-react-boilerplate"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4478642049",
+      "type": "WatchEvent",
+      "created_at": "2016-08-27T04:30:55Z",
+      "actor": "njir",
+      "repo": "mxstbr/react-boilerplate"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4475708888",
+      "type": "WatchEvent",
+      "created_at": "2016-08-26T14:21:15Z",
+      "actor": "njir",
+      "repo": "codefresh-io/cf-errors"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4454017175",
+      "type": "WatchEvent",
+      "created_at": "2016-08-22T22:42:25Z",
+      "actor": "njir",
+      "repo": "theiterators/akka-http-microservice"
+    },
+    {
+      "payload": {
+        "push_id": 1258894523,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/gh-pages",
+        "head": "77af44302c868572b4365d8fa89ded43db10b68d",
+        "before": "354d3d38c94a3c366b6825ff1e4ea0c04bb36a95",
+        "commit_shas": [
+          "77af44302c868572b4365d8fa89ded43db10b68d"
+        ]
+      },
+      "event_id": "4445584393",
+      "type": "PushEvent",
+      "created_at": "2016-08-20T04:50:33Z",
+      "actor": "njir",
+      "repo": "oh-my-github/registry"
+    },
+    {
+      "payload": {
+        "push_id": 1258892822,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/develop",
+        "head": "37b746a05c33f050d4c4a566fbc0ac14da2a7e4b",
+        "before": "174d71d8cb768d2f4102c20cca18dbb6bddffb69",
+        "commit_shas": [
+          "37b746a05c33f050d4c4a566fbc0ac14da2a7e4b"
+        ]
+      },
+      "event_id": "4445579937",
+      "type": "PushEvent",
+      "created_at": "2016-08-20T04:46:24Z",
+      "actor": "njir",
+      "repo": "oh-my-github/registry"
+    },
+    {
+      "payload": {
+        "push_id": 1258891423,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/develop",
+        "head": "fbeed9527b90c316f0b4c0c742fd90485911fbf2",
+        "before": "f7e1d60bc792072b154fce5d2ac6aa98161554e1",
+        "commit_shas": [
+          "fbeed9527b90c316f0b4c0c742fd90485911fbf2"
+        ]
+      },
+      "event_id": "4445576610",
+      "type": "PushEvent",
+      "created_at": "2016-08-20T04:42:38Z",
+      "actor": "njir",
+      "repo": "njir/suji-react"
+    },
+    {
+      "payload": {
+        "ref": "develop",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "test",
+        "pusher_type": "user"
+      },
+      "event_id": "4445564409",
+      "type": "CreateEvent",
+      "created_at": "2016-08-20T04:30:10Z",
+      "actor": "njir",
+      "repo": "njir/suji-react"
+    },
+    {
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "test",
+        "pusher_type": "user"
+      },
+      "event_id": "4417600790",
+      "type": "CreateEvent",
+      "created_at": "2016-08-15T06:40:24Z",
+      "actor": "njir",
+      "repo": "njir/suji-react"
+    },
+    {
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": "test",
+        "pusher_type": "user"
+      },
+      "event_id": "4417598270",
+      "type": "CreateEvent",
+      "created_at": "2016-08-15T06:39:18Z",
+      "actor": "njir",
+      "repo": "njir/suji-react"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4416931251",
+      "type": "WatchEvent",
+      "created_at": "2016-08-15T00:22:24Z",
+      "actor": "njir",
+      "repo": "hellgrenj/rabbit_worker_queues_playground"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4409263827",
+      "type": "WatchEvent",
+      "created_at": "2016-08-12T07:35:12Z",
+      "actor": "njir",
+      "repo": "CatsMiaow/Tested"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4381882861",
+      "type": "WatchEvent",
+      "created_at": "2016-08-06T14:43:49Z",
+      "actor": "njir",
+      "repo": "CppKorea/DesignPatternStudy"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4369514951",
+      "type": "WatchEvent",
+      "created_at": "2016-08-04T00:24:51Z",
+      "actor": "njir",
+      "repo": "team-gryff/react-monocle"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4357491701",
+      "type": "WatchEvent",
+      "created_at": "2016-08-02T02:11:23Z",
+      "actor": "njir",
+      "repo": "haarcuba/text-table"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4344147741",
+      "type": "WatchEvent",
+      "created_at": "2016-07-29T06:59:14Z",
+      "actor": "njir",
+      "repo": "bitcoin/bitcoin"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4344124099",
+      "type": "WatchEvent",
+      "created_at": "2016-07-29T06:51:14Z",
+      "actor": "njir",
+      "repo": "naver/arcus"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4344052116",
+      "type": "WatchEvent",
+      "created_at": "2016-07-29T06:25:00Z",
+      "actor": "njir",
+      "repo": "JedWatson/generator-react-express"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4344050056",
+      "type": "WatchEvent",
+      "created_at": "2016-07-29T06:24:12Z",
+      "actor": "njir",
+      "repo": "redfin/react-server"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4343995597",
+      "type": "WatchEvent",
+      "created_at": "2016-07-29T06:02:26Z",
+      "actor": "njir",
+      "repo": "AngularClass/angular2-webpack-starter"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4343744642",
+      "type": "WatchEvent",
+      "created_at": "2016-07-29T04:02:47Z",
+      "actor": "njir",
+      "repo": "nwjs/nw.js"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4340034611",
+      "type": "WatchEvent",
+      "created_at": "2016-07-28T13:38:48Z",
+      "actor": "njir",
+      "repo": "BoostIO/Boostnote"
+    },
+    {
+      "payload": {
+        "push_id": 1218307787,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "16f82d444d0402c86a7e49c52620b9a6080d1a3a",
+        "before": "ae6520c854ae37fbdc291fe607324ac0ceafa8e6",
+        "commit_shas": [
+          "16f82d444d0402c86a7e49c52620b9a6080d1a3a"
+        ]
+      },
+      "event_id": "4321939167",
+      "type": "PushEvent",
+      "created_at": "2016-07-25T12:21:49Z",
+      "actor": "njir",
+      "repo": "njir/Functional-Programming-Principles-in-Scala"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4321926209",
+      "type": "WatchEvent",
+      "created_at": "2016-07-25T12:18:35Z",
+      "actor": "njir",
+      "repo": "TomLous/coursera-functional-program-design-in-scala"
+    },
+    {
+      "payload": {
+        "push_id": 1206595283,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "ae6520c854ae37fbdc291fe607324ac0ceafa8e6",
+        "before": "5076c3f6307c6261a0bea713abd11aec949f62a0",
+        "commit_shas": [
+          "ae6520c854ae37fbdc291fe607324ac0ceafa8e6"
+        ]
+      },
+      "event_id": "4287980687",
+      "type": "PushEvent",
+      "created_at": "2016-07-17T04:55:16Z",
+      "actor": "njir",
+      "repo": "njir/Functional-Programming-Principles-in-Scala"
+    },
+    {
+      "payload": {
+        "push_id": 1204842331,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "4732127393b02948b09d480c0f9651fd465d82f2",
+        "before": "3fd8cc9bbdbd51618068f774328365c420ac60c4",
+        "commit_shas": [
+          "4732127393b02948b09d480c0f9651fd465d82f2"
+        ]
+      },
+      "event_id": "4282961149",
+      "type": "PushEvent",
+      "created_at": "2016-07-15T11:26:08Z",
+      "actor": "njir",
+      "repo": "njir/scala-play"
+    },
+    {
+      "payload": {
+        "ref": "develop",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "Spring Server",
+        "pusher_type": "user"
+      },
+      "event_id": "4282942912",
+      "type": "CreateEvent",
+      "created_at": "2016-07-15T11:21:22Z",
+      "actor": "njir",
+      "repo": "oh-my-github/omgServer"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4282939639",
+      "type": "WatchEvent",
+      "created_at": "2016-07-15T11:20:29Z",
+      "actor": "njir",
+      "repo": "oh-my-github/omgServer"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4264174499",
+      "type": "WatchEvent",
+      "created_at": "2016-07-12T05:34:24Z",
+      "actor": "njir",
+      "repo": "trungdq88/github-explorer"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4257451067",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T20:35:53Z",
+      "actor": "njir",
+      "repo": "1ambda/docker-kafka-connect"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4257449001",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T20:34:07Z",
+      "actor": "njir",
+      "repo": "docker/compose"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4257448657",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T20:33:46Z",
+      "actor": "njir",
+      "repo": "alpinelinux/aports"
+    },
+    {
+      "payload": {
+        "push_id": 1196257267,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "3fd8cc9bbdbd51618068f774328365c420ac60c4",
+        "before": "b5952e1d58304ae415d0be33c6638e9efe8ab657",
+        "commit_shas": [
+          "3fd8cc9bbdbd51618068f774328365c420ac60c4"
+        ]
+      },
+      "event_id": "4256790884",
+      "type": "PushEvent",
+      "created_at": "2016-07-10T11:11:14Z",
+      "actor": "njir",
+      "repo": "njir/scala-play"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4256707618",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T09:46:02Z",
+      "actor": "njir",
+      "repo": "sbt/sbt-native-packager"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4256706397",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T09:44:39Z",
+      "actor": "njir",
+      "repo": "marcuslonnberg/sbt-docker"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4256679891",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T09:15:59Z",
+      "actor": "njir",
+      "repo": "flyway/flyway"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4256679872",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T09:15:56Z",
+      "actor": "njir",
+      "repo": "flyway/flyway-play"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4256672106",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T09:07:51Z",
+      "actor": "njir",
+      "repo": "docker-library/postgres"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4256671967",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T09:07:43Z",
+      "actor": "njir",
+      "repo": "wurstmeister/kafka-docker"
+    },
+    {
+      "payload": {
+        "push_id": 1196111117,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "b5952e1d58304ae415d0be33c6638e9efe8ab657",
+        "before": "16f2ed5fde5ec3ea1a072b00bfa6159c6b2c078b",
+        "commit_shas": [
+          "b5952e1d58304ae415d0be33c6638e9efe8ab657"
+        ]
+      },
+      "event_id": "4256441370",
+      "type": "PushEvent",
+      "created_at": "2016-07-10T04:44:31Z",
+      "actor": "njir",
+      "repo": "njir/scala-play"
+    },
+    {
+      "payload": {
+        "action": "started"
+      },
+      "event_id": "4256381153",
+      "type": "WatchEvent",
+      "created_at": "2016-07-10T03:27:22Z",
+      "actor": "njir",
+      "repo": "marius-carp/scala-game"
+    },
+    {
+      "payload": {
+        "push_id": 1196037462,
+        "size": 2,
+        "distinct_size": 2,
+        "ref": "refs/heads/master",
+        "head": "16f2ed5fde5ec3ea1a072b00bfa6159c6b2c078b",
+        "before": "71431ac1572a77bbfe00f465ba7452f830fafa8e",
+        "commit_shas": [
+          "c5bb4146e398651937f0741de1a7fc11faf84b88",
+          "16f2ed5fde5ec3ea1a072b00bfa6159c6b2c078b"
+        ]
+      },
+      "event_id": "4256266253",
+      "type": "PushEvent",
+      "created_at": "2016-07-10T01:06:42Z",
+      "actor": "njir",
+      "repo": "njir/scala-play"
+    },
+    {
+      "payload": {
+        "push_id": 1195522550,
+        "size": 2,
+        "distinct_size": 2,
+        "ref": "refs/heads/master",
+        "head": "5076c3f6307c6261a0bea713abd11aec949f62a0",
+        "before": "290034b6864f71bd33df03d4af87171e81ab1df4",
+        "commit_shas": [
+          "3146c59adf1aad90399adb02ce1e96bb2f931b7f",
+          "5076c3f6307c6261a0bea713abd11aec949f62a0"
+        ]
+      },
+      "event_id": "4254988340",
+      "type": "PushEvent",
+      "created_at": "2016-07-09T04:49:38Z",
+      "actor": "njir",
+      "repo": "njir/Functional-Programming-Principles-in-Scala"
     }
   ],
   "repositories": [
+    {
+      "name": "2015",
+      "description": "http://d2campusfest.kr/2015/",
+      "full_name": "njir/2015",
+      "fork": true,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": null,
+      "open_issues_count": 0,
+      "default_branch": "master",
+      "created_at": "2016-03-26T09:15:22Z",
+      "updated_at": "2016-03-24T04:57:54Z",
+      "pushed_at": "2016-03-26T09:18:04Z",
+      "url": "https://github.com/njir/2015"
+    },
     {
       "name": "7languages",
       "description": "seven languages in seven weeks",
@@ -4918,6 +6078,22 @@
       "updated_at": "2015-05-10T02:48:39Z",
       "pushed_at": "2015-05-10T02:48:39Z",
       "url": "https://github.com/njir/7languages"
+    },
+    {
+      "name": "angular2-electron-boilerplate",
+      "description": "coming soon",
+      "full_name": "njir/angular2-electron-boilerplate",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "JavaScript",
+      "open_issues_count": 2,
+      "default_branch": "develop",
+      "created_at": "2016-04-04T23:45:54Z",
+      "updated_at": "2016-04-10T10:36:01Z",
+      "pushed_at": "2016-04-10T10:36:00Z",
+      "url": "https://github.com/njir/angular2-electron-boilerplate"
     },
     {
       "name": "codeforces",
@@ -4936,6 +6112,22 @@
       "url": "https://github.com/njir/codeforces"
     },
     {
+      "name": "frontend-libs",
+      "description": "Front-End WebApp development javascript framework training",
+      "full_name": "njir/frontend-libs",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "JavaScript",
+      "open_issues_count": 0,
+      "default_branch": "master",
+      "created_at": "2016-05-23T04:13:54Z",
+      "updated_at": "2016-05-23T07:37:01Z",
+      "pushed_at": "2016-05-27T07:18:54Z",
+      "url": "https://github.com/njir/frontend-libs"
+    },
+    {
       "name": "functional-programming",
       "description": "functional-programming",
       "full_name": "njir/functional-programming",
@@ -4952,9 +6144,41 @@
       "url": "https://github.com/njir/functional-programming"
     },
     {
-      "name": "njir.github.io",
-      "description": "http://njir.github.io",
-      "full_name": "njir/njir.github.io",
+      "name": "Functional-Programming-Principles-in-Scala",
+      "description": "Functional-Programming-Principles-in-Scala",
+      "full_name": "njir/Functional-Programming-Principles-in-Scala",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Scala",
+      "open_issues_count": 0,
+      "default_branch": "master",
+      "created_at": "2016-06-18T09:46:41Z",
+      "updated_at": "2016-06-18T09:47:47Z",
+      "pushed_at": "2016-07-25T12:21:49Z",
+      "url": "https://github.com/njir/Functional-Programming-Principles-in-Scala"
+    },
+    {
+      "name": "go-language",
+      "description": "",
+      "full_name": "njir/go-language",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Go",
+      "open_issues_count": 0,
+      "default_branch": "master",
+      "created_at": "2016-05-02T07:11:33Z",
+      "updated_at": "2016-06-18T09:48:50Z",
+      "pushed_at": "2016-05-11T12:47:32Z",
+      "url": "https://github.com/njir/go-language"
+    },
+    {
+      "name": "JavaStudy",
+      "description": "To study Java Web Programming Next Step book",
+      "full_name": "njir/JavaStudy",
       "fork": false,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -4962,15 +6186,31 @@
       "language": "HTML",
       "open_issues_count": 0,
       "default_branch": "master",
+      "created_at": "2016-09-24T07:41:25Z",
+      "updated_at": "2016-09-28T13:20:09Z",
+      "pushed_at": "2016-10-01T10:53:56Z",
+      "url": "https://github.com/njir/JavaStudy"
+    },
+    {
+      "name": "njir.github.io",
+      "description": "My blog",
+      "full_name": "njir/njir.github.io",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "HTML",
+      "open_issues_count": 1,
+      "default_branch": "master",
       "created_at": "2015-06-30T12:50:08Z",
-      "updated_at": "2016-02-25T12:16:57Z",
-      "pushed_at": "2016-02-25T12:16:57Z",
+      "updated_at": "2016-06-09T13:35:30Z",
+      "pushed_at": "2016-09-15T06:51:31Z",
       "url": "https://github.com/njir/njir.github.io"
     },
     {
-      "name": "nodejs",
+      "name": "nodejs-libs",
       "description": "Finished TAcademy. not using this.",
-      "full_name": "njir/nodejs",
+      "full_name": "njir/nodejs-libs",
       "fork": false,
       "forks_count": 0,
       "stargazers_count": 0,
@@ -4979,41 +6219,57 @@
       "open_issues_count": 0,
       "default_branch": "master",
       "created_at": "2015-01-05T01:51:38Z",
-      "updated_at": "2015-03-04T08:35:01Z",
+      "updated_at": "2016-05-23T22:15:13Z",
       "pushed_at": "2015-03-04T08:31:07Z",
-      "url": "https://github.com/njir/nodejs"
+      "url": "https://github.com/njir/nodejs-libs"
     },
     {
       "name": "oh-my-github",
-      "description": "",
+      "description": "View my github status",
       "full_name": "njir/oh-my-github",
       "fork": false,
       "forks_count": 0,
-      "stargazers_count": 1,
-      "watchers_count": 1,
-      "language": null,
+      "stargazers_count": 2,
+      "watchers_count": 2,
+      "language": "JavaScript",
       "open_issues_count": 0,
       "default_branch": "master",
       "created_at": "2016-02-25T12:27:13Z",
-      "updated_at": "2016-03-08T08:35:34Z",
-      "pushed_at": "2016-02-25T12:27:13Z",
+      "updated_at": "2016-03-19T08:45:05Z",
+      "pushed_at": "2016-03-13T10:35:55Z",
       "url": "https://github.com/njir/oh-my-github"
     },
     {
-      "name": "spring-udemy",
-      "description": "Spring project for udemy",
-      "full_name": "njir/spring-udemy",
+      "name": "redux-practice",
+      "description": "For study",
+      "full_name": "njir/redux-practice",
       "fork": false,
       "forks_count": 0,
       "stargazers_count": 0,
       "watchers_count": 0,
-      "language": "Java",
+      "language": "JavaScript",
       "open_issues_count": 0,
       "default_branch": "master",
-      "created_at": "2015-12-25T08:28:43Z",
-      "updated_at": "2015-12-25T08:30:00Z",
-      "pushed_at": "2015-12-25T08:31:35Z",
-      "url": "https://github.com/njir/spring-udemy"
+      "created_at": "2016-03-21T11:20:28Z",
+      "updated_at": "2016-06-18T09:49:07Z",
+      "pushed_at": "2016-04-26T13:44:40Z",
+      "url": "https://github.com/njir/redux-practice"
+    },
+    {
+      "name": "scala-play",
+      "description": "scala-play test",
+      "full_name": "njir/scala-play",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "Scala",
+      "open_issues_count": 0,
+      "default_branch": "master",
+      "created_at": "2016-07-02T04:06:24Z",
+      "updated_at": "2016-07-02T04:07:33Z",
+      "pushed_at": "2016-07-15T11:26:08Z",
+      "url": "https://github.com/njir/scala-play"
     },
     {
       "name": "suji",
@@ -5028,11 +6284,80 @@
       "default_branch": "master",
       "created_at": "2016-01-07T09:01:06Z",
       "updated_at": "2016-01-11T10:13:56Z",
-      "pushed_at": "2016-03-09T12:03:15Z",
+      "pushed_at": "2016-05-06T09:03:03Z",
       "url": "https://github.com/njir/suji"
+    },
+    {
+      "name": "suji-generator",
+      "description": "",
+      "full_name": "njir/suji-generator",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": null,
+      "open_issues_count": 0,
+      "default_branch": "develop",
+      "created_at": "2016-05-07T12:09:06Z",
+      "updated_at": "2016-05-07T12:18:07Z",
+      "pushed_at": "2016-05-07T12:19:38Z",
+      "url": "https://github.com/njir/suji-generator"
+    },
+    {
+      "name": "suji-react",
+      "description": "test",
+      "full_name": "njir/suji-react",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "JavaScript",
+      "open_issues_count": 0,
+      "default_branch": "master",
+      "created_at": "2016-08-15T06:39:17Z",
+      "updated_at": "2016-08-15T06:40:25Z",
+      "pushed_at": "2016-08-20T04:42:38Z",
+      "url": "https://github.com/njir/suji-react"
+    },
+    {
+      "name": "ultrasound",
+      "description": "",
+      "full_name": "njir/ultrasound",
+      "fork": false,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "C++",
+      "open_issues_count": 1,
+      "default_branch": "master",
+      "created_at": "2016-04-13T09:48:32Z",
+      "updated_at": "2016-04-28T07:40:39Z",
+      "pushed_at": "2016-04-29T10:26:31Z",
+      "url": "https://github.com/njir/ultrasound"
+    },
+    {
+      "name": "web-service",
+      "description": "Create your Github Profile",
+      "full_name": "njir/web-service",
+      "fork": true,
+      "forks_count": 0,
+      "stargazers_count": 0,
+      "watchers_count": 0,
+      "language": "JavaScript",
+      "open_issues_count": 0,
+      "default_branch": "develop",
+      "created_at": "2016-04-03T01:54:16Z",
+      "updated_at": "2016-04-03T01:54:17Z",
+      "pushed_at": "2016-04-03T02:19:06Z",
+      "url": "https://github.com/njir/web-service"
     }
   ],
   "languages": [
+    {
+      "owner": "njir",
+      "repo_name": "2015",
+      "url": "http://github.com/njir/2015"
+    },
     {
       "owner": "njir",
       "repo_name": "7languages",
@@ -5058,12 +6383,66 @@
     },
     {
       "owner": "njir",
+      "repo_name": "angular2-electron-boilerplate",
+      "url": "http://github.com/njir/angular2-electron-boilerplate",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "line": 1827
+        },
+        {
+          "name": "TypeScript",
+          "line": 745
+        },
+        {
+          "name": "HTML",
+          "line": 403
+        }
+      ]
+    },
+    {
+      "owner": "njir",
       "repo_name": "codeforces",
       "url": "http://github.com/njir/codeforces",
       "languages": [
         {
           "name": "C++",
           "line": 10776
+        }
+      ]
+    },
+    {
+      "owner": "njir",
+      "repo_name": "frontend-libs",
+      "url": "http://github.com/njir/frontend-libs",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "line": 2630867
+        },
+        {
+          "name": "HTML",
+          "line": 268764
+        },
+        {
+          "name": "CSS",
+          "line": 171061
+        },
+        {
+          "name": "PHP",
+          "line": 49528
+        },
+        {
+          "name": "Java",
+          "line": 19649
+        },
+        {
+          "name": "TypeScript",
+          "line": 1370
+        },
+        {
+          "name": "ASP",
+          "line": 81
         }
       ]
     },
@@ -5088,12 +6467,69 @@
     },
     {
       "owner": "njir",
+      "repo_name": "Functional-Programming-Principles-in-Scala",
+      "url": "http://github.com/njir/Functional-Programming-Principles-in-Scala",
+      "languages": [
+        {
+          "name": "Scala",
+          "line": 561228
+        },
+        {
+          "name": "XSLT",
+          "line": 419860
+        },
+        {
+          "name": "CSS",
+          "line": 87420
+        },
+        {
+          "name": "HTML",
+          "line": 6229
+        }
+      ]
+    },
+    {
+      "owner": "njir",
+      "repo_name": "go-language",
+      "url": "http://github.com/njir/go-language",
+      "languages": [
+        {
+          "name": "Go",
+          "line": 415
+        }
+      ]
+    },
+    {
+      "owner": "njir",
+      "repo_name": "JavaStudy",
+      "url": "http://github.com/njir/JavaStudy",
+      "languages": [
+        {
+          "name": "HTML",
+          "line": 48262
+        },
+        {
+          "name": "Java",
+          "line": 14599
+        },
+        {
+          "name": "CSS",
+          "line": 7065
+        },
+        {
+          "name": "JavaScript",
+          "line": 348
+        }
+      ]
+    },
+    {
+      "owner": "njir",
       "repo_name": "njir.github.io",
       "url": "http://github.com/njir/njir.github.io",
       "languages": [
         {
           "name": "HTML",
-          "line": 713749
+          "line": 1281377
         },
         {
           "name": "CSS",
@@ -5107,8 +6543,8 @@
     },
     {
       "owner": "njir",
-      "repo_name": "nodejs",
-      "url": "http://github.com/njir/nodejs",
+      "repo_name": "nodejs-libs",
+      "url": "http://github.com/njir/nodejs-libs",
       "languages": [
         {
           "name": "JavaScript",
@@ -5139,16 +6575,61 @@
     {
       "owner": "njir",
       "repo_name": "oh-my-github",
-      "url": "http://github.com/njir/oh-my-github"
+      "url": "http://github.com/njir/oh-my-github",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "line": 73504
+        },
+        {
+          "name": "CSS",
+          "line": 3391
+        },
+        {
+          "name": "HTML",
+          "line": 2125
+        }
+      ]
     },
     {
       "owner": "njir",
-      "repo_name": "spring-udemy",
-      "url": "http://github.com/njir/spring-udemy",
+      "repo_name": "redux-practice",
+      "url": "http://github.com/njir/redux-practice",
       "languages": [
         {
-          "name": "Java",
-          "line": 2017
+          "name": "JavaScript",
+          "line": 32395
+        },
+        {
+          "name": "CSS",
+          "line": 8554
+        },
+        {
+          "name": "HTML",
+          "line": 872
+        },
+        {
+          "name": "Shell",
+          "line": 469
+        }
+      ]
+    },
+    {
+      "owner": "njir",
+      "repo_name": "scala-play",
+      "url": "http://github.com/njir/scala-play",
+      "languages": [
+        {
+          "name": "Scala",
+          "line": 21038
+        },
+        {
+          "name": "HTML",
+          "line": 2658
+        },
+        {
+          "name": "JavaScript",
+          "line": 89
         }
       ]
     },
@@ -5170,6 +6651,68 @@
           "line": 803
         }
       ]
+    },
+    {
+      "owner": "njir",
+      "repo_name": "suji-generator",
+      "url": "http://github.com/njir/suji-generator"
+    },
+    {
+      "owner": "njir",
+      "repo_name": "suji-react",
+      "url": "http://github.com/njir/suji-react",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "line": 25159
+        },
+        {
+          "name": "HTML",
+          "line": 629
+        },
+        {
+          "name": "CSS",
+          "line": 131
+        }
+      ]
+    },
+    {
+      "owner": "njir",
+      "repo_name": "ultrasound",
+      "url": "http://github.com/njir/ultrasound",
+      "languages": [
+        {
+          "name": "C++",
+          "line": 136018
+        },
+        {
+          "name": "JavaScript",
+          "line": 674
+        },
+        {
+          "name": "C",
+          "line": 667
+        }
+      ]
+    },
+    {
+      "owner": "njir",
+      "repo_name": "web-service",
+      "url": "http://github.com/njir/web-service",
+      "languages": [
+        {
+          "name": "JavaScript",
+          "line": 14248
+        },
+        {
+          "name": "HTML",
+          "line": 532
+        },
+        {
+          "name": "CSS",
+          "line": 79
+        }
+      ]
     }
   ],
   "user": {
@@ -5179,15 +6722,15 @@
     "avatar_url": "https://avatars.githubusercontent.com/u/7614353?v=3",
     "company": "GE Healthcare",
     "blog": "http://njir.github.io",
-    "location": null,
-    "email": "njir@naver.com",
+    "location": "Seoul, Korea",
+    "email": "njirtak@gmail.com",
     "hireable": null,
-    "following": 4,
-    "followers": 2,
-    "public_repos": 8,
+    "following": 3,
+    "followers": 6,
+    "public_repos": 19,
     "public_gists": 1,
     "created_at": "2014-05-18T00:26:47Z",
-    "updated_at": "2016-03-13T08:17:01Z",
+    "updated_at": "2016-10-05T11:19:21Z",
     "url": "https://github.com/njir"
   }
 }
